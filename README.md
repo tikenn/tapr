@@ -4,7 +4,7 @@ This is a small application built for our institution's pathology department to 
 ## A Note on Installation
 The system only needs a web server running PHP (we use PHP-FPM specifically) and a MySQL compatible database (we use MariaDB).  After that, follow the steps below:
 
-1. Copy files in this repository your to web root
+1. Copy files in this repository to your web root
 2. Load the tapr.sql file into your database.  For MariaDB and MySQL in Linux distros, the following command will work:
 
   ```bash
