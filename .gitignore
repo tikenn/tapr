@@ -1,0 +1,5 @@
+# Ignored Files for Deployment #
+################################
+
+# Database configuration file
+/includes/db.php
