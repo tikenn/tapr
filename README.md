@@ -11,4 +11,4 @@ The system only needs a web server running PHP (we use PHP-FPM specifically) and
   mysql -u root -p < tapr.sql
   ```
 
-3. Change the login information in 'includes/db.php' to meet your database credentials
+3. Change the login information in 'includes/db.php.default' to meet your database credentials and rename to 'includes/db.php'
